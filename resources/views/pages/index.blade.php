@@ -153,7 +153,7 @@
                       </div>
                       <div class="result">
                         <div class="rate" id="rate"></div>
-                        <a href="login.html" class="btn btn-primary btn-block">Continue</a>
+                        <a href="/login" class="btn btn-primary btn-block">Continue</a>
                     </form>
                   </div>
 
