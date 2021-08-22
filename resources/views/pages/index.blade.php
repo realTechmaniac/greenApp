@@ -47,7 +47,7 @@
           <div class="header-column justify-content-start">
             <!-- Logo
           ============================= -->
-            <div class="logo"> <a class="d-flex" href="index.html" title="Green finance"><img src="images/logo.png"
+            <div class="logo"> <a class="d-flex" href="/" title="Green finance"><img src="images/logo.png"
                   alt="green finance" /></a> </div>
             <!-- Logo end -->
             <!-- Collapse Button
