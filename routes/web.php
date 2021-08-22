@@ -15,6 +15,11 @@ use App\Http\Controllers\PaymentController;
 |
 */
 
+
+if (App::environment('production')) {
+    URL::forceScheme('https');
+}
+
 Route::get('/', [PagesController::class, 'index']);
 Route::get('/profile', [PagesController::class, 'showProfile']);
 Route::get('/cards', [PagesController::class, 'showCards']);
